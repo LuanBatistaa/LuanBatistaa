@@ -24,7 +24,7 @@
 
 Aqui estão algumas das ferramentas e tecnologias que conheço e pratico:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=Docker,nodejs,Kubernetes,aws,ansible,jenkins,nginx)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,nodejs,kubernetes,aws,ansible,jenkins,nginx)](https://skillicons.dev)
 
 ### 📈 Minhas estatísticas
 
@@ -36,9 +36,7 @@ Aqui estão algumas das ferramentas e tecnologias que conheço e pratico:
 
 <div>
   <a href="https://www.linkedin.com/in/luanbatistadev3215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
   <a href = "mailto:Sousaluan3215@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
   <a href="https://www.instagram.com/luan_batista.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
