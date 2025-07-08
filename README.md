@@ -12,12 +12,13 @@
 
 <p>
   <em>
-    Tenho 20 anos, sou da Bahia - BR, atualmente trabalho como Supervisor de Merchandising e estou estudando, praticando e aplicando por conta própria como DevOps.
+    Tenho 21 anos, sou da Bahia - BR, atualmente trabalho como Supervisor de Merchandising e estou estudando, praticando e aplicando por conta própria como DevOps.
   </em>
 </p>
 
 - Atualmente aprendendo sobre DevOps e Cloud.
 - Estudando Analise e Desenvolvimento de Sistemas na Unifacs.
+- Aws Solutions Architect - Associate + Aws cloud practitioner
 - Email: sousaluan3215@gmail.com
 
 ### ⚡ Tecnologias:
