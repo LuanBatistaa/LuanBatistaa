@@ -31,7 +31,7 @@ Aqui estão algumas das ferramentas e tecnologias que conheço e pratico:
 
 | Minhas Estatísticas                                                                                                                                              | Principais Linguagens                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Estatísticas do GitHub de Luan Batista]![Estatísticas de Luan Batista](https://github-readme-stats.vercel.app/api?username=LuanBatistaa&show_icons=true&hide_border=true&count_private=true&theme=jolly)| ![Principais Linguagens]![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBatistaa&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![Estatísticas do GitHub de Luan Batista]![Estatísticas de Luan Batista](https://github-readme-stats.vercel.app/api?username=LuanBatistaa&show_icons=true&hide_border=true&count_private=true&theme=jolly?cache_seconds=30)| ![Principais Linguagens]![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBatistaa&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 💬 Contate-me
 
